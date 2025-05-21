@@ -6640,107 +6640,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 686100,
-          "name": "Create Mechanical Extruder",
-          "author": "oierbravo_mc",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/create-mechanical-extruder",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            },
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            }
-          ],
-          "picture": 898683,
-          "pictures": [],
-          "lanName": "create-mechanical-extruder",
-          "version": {
-            "id": 6510597,
-            "name": "create_mechanical_extruder-1.21.1-2.1.1-6.0.4",
-            "updateDate": 1746743021000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 53,
-                "name": "1.21.1"
-              }
-            ],
-            "metadata": {
-              "sha1": "a7105f6090247bb4128a2ec35bdb46c34986ce4a",
-              "size": 524615,
-              "path": "mods/create_mechanical_extruder-1.21.1-2.1.1-6.0.4.jar",
-              "url": "/mods/686100/6510597/create_mechanical_extruder-1.21.1-2.1.1-6.0.4.jar"
-            },
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 5,
-                "name": "neoForge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 1054,
-              "name": "KubeJS",
-              "gameEntityId": 238086,
-              "dependencyType": "optional"
-            },
-            {
-              "gameType": "mod",
-              "id": 95,
-              "name": "CraftTweaker",
-              "gameEntityId": 239197,
-              "dependencyType": "optional"
-            },
-            {
-              "gameType": "mod",
-              "id": 13066,
-              "name": "Mechanicals Lib",
-              "gameEntityId": 1253573,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 4,
-              "name": "Just Enough Items (JEI)",
-              "gameEntityId": 238222,
-              "dependencyType": "optional"
-            },
-            {
-              "gameType": "mod",
-              "id": 769,
-              "name": "Create",
-              "gameEntityId": 328085,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1746565200000,
-          "update": 1746565200000,
-          "downloadALL": 47969,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 661517,
           "name": "GroovyModLoader (GML)",
           "author": "matyrobbrt",
@@ -17549,28 +17448,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": -18205843589700,
-          "name": "yesstevemodel-neoforge-1.21-2.4.1-release",
-          "favorite": false,
-          "version": {
-            "id": -18205874667100,
-            "name": "1.0",
-            "metadata": {
-              "sha1": "929607dc7668cfee4f51221fdad6c20c69235f76",
-              "size": 26641212,
-              "path": "mods/yesstevemodel-neoforge-1.21-2.4.1-release.jar",
-              "url": "mods/yesstevemodel-neoforge-1.21-2.4.1-release.jar"
-            },
-            "available": false
-          },
-          "userInstall": true,
-          "populateStatus": false,
-          "available": false,
-          "parser": false,
-          "totalComments": 0
-        },
-        {
-          "stateGameElement": "active",
           "id": 257814,
           "name": "CreativeCore",
           "author": "CreativeMD",
@@ -22188,6 +22065,138 @@
               "size": 1792506,
               "path": "mods/copycats-2.2.2+mc.1.21.1-neoforge.jar",
               "url": "mods/copycats-2.2.2+mc.1.21.1-neoforge.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -26707393849200,
+          "name": "alltheleaks-0.1.17-beta+1.21.1-neoforge",
+          "favorite": false,
+          "version": {
+            "id": -26707394696400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "96caf3b5c380482cbeb0e6fef011b0efe8365c9b",
+              "size": 353667,
+              "path": "mods/alltheleaks-0.1.17-beta+1.21.1-neoforge.jar",
+              "url": "mods/alltheleaks-0.1.17-beta+1.21.1-neoforge.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -26707395028900,
+          "name": "athena-neoforge-1.21-4.0.1",
+          "favorite": false,
+          "version": {
+            "id": -26707396081900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "36b80d2340718b22432e2761142cb4bdb2629a42",
+              "size": 93703,
+              "path": "mods/athena-neoforge-1.21-4.0.1.jar",
+              "url": "mods/athena-neoforge-1.21-4.0.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -26707396628600,
+          "name": "chipped-neoforge-1.21.1-4.0.2",
+          "favorite": false,
+          "version": {
+            "id": -26707412018100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "6f5395f58139802edfde7cb9170279f92f291971",
+              "size": 15020578,
+              "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
+              "url": "mods/chipped-neoforge-1.21.1-4.0.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -26707412882900,
+          "name": "healingcampfire-1.21.1-6.2",
+          "favorite": false,
+          "version": {
+            "id": -26707413234100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b87bbab52ac97738651229a263f2339a8923ae47",
+              "size": 47517,
+              "path": "mods/healingcampfire-1.21.1-6.2.jar",
+              "url": "mods/healingcampfire-1.21.1-6.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -26707413827700,
+          "name": "memorysweep-1.21.1-1.1.2-fix-neoforge",
+          "favorite": false,
+          "version": {
+            "id": -26707414039800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b37425acc44c6ac663878ba8d8e5735099599325",
+              "size": 14172,
+              "path": "mods/memorysweep-1.21.1-1.1.2-fix-neoforge.jar",
+              "url": "mods/memorysweep-1.21.1-1.1.2-fix-neoforge.jar"
+            },
+            "available": false
+          },
+          "userInstall": true,
+          "populateStatus": false,
+          "available": false,
+          "parser": false,
+          "totalComments": 0
+        },
+        {
+          "stateGameElement": "active",
+          "id": -26707414245100,
+          "name": "pipeorgans-0.6.2+1.21.1",
+          "favorite": false,
+          "version": {
+            "id": -26707416817100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "632afb36b918d8e0cd7aa69af72bdb4e55abd629",
+              "size": 2638190,
+              "path": "mods/pipeorgans-0.6.2+1.21.1.jar",
+              "url": "mods/pipeorgans-0.6.2+1.21.1.jar"
             },
             "available": false
           },
