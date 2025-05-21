@@ -1,1 +1,16 @@
-Mẹ Tuấn Anh 7/4/2006 chết hôm nay
+## Install
+
+Run this command in .minecraft\versions
+
+```bash
+  git clone https://github.com/tmih06/Create_6_NeoForge_1.21.1.git
+```
+
+## Update
+
+Run update.bat
+
+```bash
+  cd Create_6_NeoForge_1.21.1
+  update.bat
+```
